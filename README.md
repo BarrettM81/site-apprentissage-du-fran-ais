@@ -49,11 +49,11 @@ python3 -m http.server 8000
 
 ## 发布到 GitHub Pages
 
-仓库已配置 GitHub Actions 自动部署。若尚未启用 Pages，请在 GitHub 仓库设置中选择：
+仓库已配置 GitHub Actions 自动部署；首次运行会尝试自动启用 Pages。若 GitHub 因仓库权限或组织策略未能自动启用，请在仓库设置中选择：
 
 **Settings → Pages → Build and deployment → Source → GitHub Actions**
 
-之后推送到 `main`，或在 **Actions → Deploy to GitHub Pages → Run workflow** 手动触发发布。部署成功后使用上方的在线预览链接。
+推送到 `main` 会自动触发发布；也可以在 **Actions → Deploy to GitHub Pages → Run workflow** 手动触发。部署成功后使用上方的在线预览链接。
 
 ## 学习记录数据库
 
