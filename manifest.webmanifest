@@ -1,0 +1,10 @@
+{
+  "name": "法语动词每日刷题",
+  "short_name": "法语刷题",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#162c44"
+}
