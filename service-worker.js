@@ -1,4 +1,4 @@
-const CACHE_NAME = "french-verbs-v1";
+const CACHE_NAME = "french-verbs-v2";
 const APP_SHELL = [
   "./",
   "./法语动词每日刷题_全人称版(1).html",
